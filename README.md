@@ -46,6 +46,9 @@ My name is Davina, I am a professional nurse learning how to code from scratch, 
 
 ### Factoria F5
  - [Desarrollo web – FullStack (850h) ](https://factoriaf5.org/)
+ 
+### Coursera
+ - Google IT Support Professional Certificate (https://es.coursera.org)
 
 
 
