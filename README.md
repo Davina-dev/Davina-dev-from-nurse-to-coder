@@ -5,7 +5,7 @@
 ## Certificates
 
 ### Coursera
-  - Google IT Support Professional Certificate (https://www.coursera.org/professional-certificates/google-it-support)
+  - [Certificado profesional de Soporte de TI de Google](https://www.coursera.org/professional-certificates/google-it-support)
  
  ### CodelyTV (https://codely.tv/)
  - CSS FLEX A FONDO
