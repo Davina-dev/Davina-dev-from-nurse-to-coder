@@ -65,6 +65,18 @@
 ### UPC SCHOOL
   - [Desarrollo web – FullStack](https://www.talent.upc.edu/esp/estudis/formacio/curs/313400/posgrado-full-stack-web-technologies/)
  
+### UNIR (Universidad Internacional de La Rioja) | 2024-2026
+  - Máster Universitario en Gestión y Dirección Sanitaria
+  - •	Programa Superior Universitario en Transformación Digital en el Cuidado de la Salud 
+
+
+### Others Certificates:
+- IT Support Professional Certificate | Google / Coursera (2021)
+-	Foundations of Cybersecurity | Coursera (2021)
+-	Networking Basics | Cisco (2021)
+-	Colegiación Profesional: Col·legi Oficial d'Infermeres i Infermers de Barcelona (N.° 08-063090)
+
+
 
 
 
